@@ -41,6 +41,9 @@ strong {
 .tpad {
     padding-top: 20px;
 }
+.bpad {
+    margin-bottom: 30px;
+}
 .padded {
     padding: 100px 15px;
 }
@@ -49,6 +52,15 @@ strong {
 }
 hr {
     border-top: 1px solid #c9c9c9;
+}
+.blog h1 a {
+    color: #4b8575;
+}
+.blog p a {
+    color: #ed7337;
+}
+.sidebar {
+    background-color: #e9e6df;
 }
 .info {
     background: #ffa753 url(../img/skyline.png) repeat-x bottom;
