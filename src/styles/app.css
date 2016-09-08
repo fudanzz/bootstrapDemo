@@ -90,6 +90,13 @@ hr {
 .ft_space {
   padding: 0 10px; }
 
+.map {
+  height: 350px;
+  width: 100%;
+  pointer-events: none; }
+
 @media (min-width: 768px) {
   .carousel-inner > .item {
-    height: 700px; } }
+    height: 700px; }
+  .map {
+    height: 500px; } }
